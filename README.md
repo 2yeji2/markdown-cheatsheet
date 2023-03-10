@@ -1,8 +1,8 @@
-Markdown Cheatsheet<a name="TOP"></a>
+Markdown Cheatsheet - 이예지
 ===================
 
 - - - - 
-# Heading 1 #
+# 제 1제목 #
 
     Markup :  # Heading 1 #
 
@@ -10,7 +10,7 @@ Markdown Cheatsheet<a name="TOP"></a>
 
     Markup :  ============= (below H1 text)
 
-## Heading 2 ##
+## 제 2제목 ##
 
     Markup :  ## Heading 2 ##
 
@@ -31,7 +31,7 @@ Common text
 
     Markup :  Common text
 
-_Emphasized text_
+_기울어져따_
 
     Markup :  _Emphasized text_ or *Emphasized text*
 
